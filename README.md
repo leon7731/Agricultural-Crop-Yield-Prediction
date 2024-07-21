@@ -21,17 +21,17 @@ Various regression models are employed to tackle crop yield prediction, each wit
 
 | Model | Mean Absolute Error (MAE) | Mean Squared Error (MSE) | Root Mean Squared Error (RMSE) | R-squared (R2) | Adjusted R-squared (R2 adjusted) |
 |:-----------:|:------------:|:------------:|:-----------:|:-----------:|:-----------:|
-| [AdaBoost Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/AdaBoost%20Regression) | 48.37 | 3639.42 | 60.32 | 90.64 | 90.63 | 
-| [CatBoost Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/CatBoost%20Regression) | 42.20 | 2795.15 | 52.86 | 92.81 | 92.80 |
-| [ElasticNet Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/Elastic%20Net%20Regression) | 40.24 | 2531.63 | 50.31 | 93.49 |93.48 |
-| [KNN Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/KNN%20Regression) | 43.54 | 2966.02 | 54.46 | 92.37 | 92.36 |
+| [ElasticNet Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/Elastic%20Net%20Regression) | 40.24 | 2531.63 | 50.31 | 93.49 | 93.48 |
 | [Lasso Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/Lasso%20Regression) | 40.24 | 2531.67 | 50.31 | 93.49 | 93.48 |
 | [Linear Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/Linear%20Regression) | 40.24 | 2531.66 | 50.31 | 93.49 | 93.48 |
-| [Multi-Layer Perceptrons Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/MLP%20Regression) | 40.25 | 2533.74 | 50.33 |93.48 | 93.47 |
 | [Polynomial Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/Polynomial%20Regression) | 40.24 | 2531.64 | 50.31 | 93.49 | 93.48 |
-| [Random Forest Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/Random%20Forest%20Regression) | 43.35 | 2938.00 | 54.20 | 92.44 | 92.43 |
 | [Ridge Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/Ridge%20Regression) | 40.24 | 2531.33 | 50.31 | 93.49 | 93.48 |
 | [Support Vector Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/SVM%20Regression) | 40.26 | 2532.19 | 50.32 | 93.49 | 93.48 |
+| [Multi-Layer Perceptrons Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/MLP%20Regression) | 40.25 | 2533.74 | 50.33 | 93.48 | 93.47 |
+| [CatBoost Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/CatBoost%20Regression) | 42.20 | 2795.15 | 52.86 | 92.81 | 92.80 |
+| [Random Forest Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/Random%20Forest%20Regression) | 43.35 | 2938.00 | 54.20 | 92.44 | 92.43 |
+| [KNN Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/KNN%20Regression) | 43.54 | 2966.02 | 54.46 | 92.37 | 92.36 |
+| [AdaBoost Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/AdaBoost%20Regression) | 48.37 | 3639.42 | 60.32 | 90.64 | 90.63 |
 | [XGBoost Regression](https://github.com/leon7731/Crop-Yield-Prediction/tree/main/XGBoost%20Regression) | 40.54 | 2572.80 | 50.72 | 93.38 | 93.37 |
 
 
