@@ -17,7 +17,7 @@ In the realm of modern agriculture, crop yield prediction is indispensable, part
 
 
 # Model Performance
-Various regression models are employed to tackle crop yield prediction, each with unique advantages. These include AdaBoost, CatBoost, ElasticNet, KNN, Lasso, Linear, Multi-Layer Perceptrons, Polynomial, Random Forest, Ridge, Support Vector, and XGBoost regressions. These models enhance predictive accuracy, handle complex patterns, and improve resource efficiency.
+Various regression models are employed to tackle crop yield prediction, each with unique advantages. These include AdaBoost, CatBoost, ElasticNet, KNN, Lasso, Linear, Multi-Layer Perceptrons, Polynomial, Random Forest, Ridge, Support Vector, and XGBoost regressions. These models enhance predictive accuracy, handle complex patterns, and improve resource efficiency. Additionally, all model hyperparameters are finely tuned using Optuna, an advanced optimization framework, to ensure optimal performance.
 
 | Model | Mean Absolute Error (MAE) | Mean Squared Error (MSE) | Root Mean Squared Error (RMSE) | R-squared (R2) | Adjusted R-squared (R2 adjusted) |
 |:-----------:|:------------:|:------------:|:-----------:|:-----------:|:-----------:|
