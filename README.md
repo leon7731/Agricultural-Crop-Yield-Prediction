@@ -1,3 +1,6 @@
+
+<img align="top" width="80%" align="right" alt="Logo" src="https://drive.google.com/uc?export=view&id=15HsBzA7ZW8wxegUO5z1EjQBvuUe-RuAd" />
+
 # Introduction
 
 In the realm of modern agriculture, crop yield prediction is indispensable, particularly with the increasing shift towards data-driven methodologies. To achieve accurate yield predictions, comprehensive datasets encompassing soil composition, environmental factors, historical yield data, and crop management practices are essential. Analyzing and interpreting these datasets offer valuable insights, which are crucial for optimizing agricultural practices and ensuring sustainable crop production.
